@@ -1,0 +1,12 @@
+How would you build a classification model to predict whether a passenger survived the Titanic disaster based on available features such as age, gender, class, and fare? Describe your approach, including data preprocessing, 
+feature selection, and the choice of a machine learning model.
+
+## 🛠 Requirements
+To run this project, you need the following:
+
+Python 3.7+
+Libraries:
+NumPy: For numerical computations.
+Pandas: For data preprocessing.
+scikit-learn: For data splitting and encoding.
+SciPy: For numerically stable sigmoid function.
